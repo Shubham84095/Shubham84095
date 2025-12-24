@@ -13,7 +13,7 @@
   <a href="https://codeforces.com/profile/kai_007">Codeforces</a> ·
   <a href="https://www.leetcode.com/shubham84095">LeetCode</a> ·
   <a href="https://atcoder.jp/users/Kai_007">AtCoder</a> ·
-  <a href="https://www.codechef.com/users/kai_007">CodeChef</a>
+  <a href="https://www.codechef.com/users/kai_007">CodeChef</a>.
   <a href="https://www.geeksforgeeks.org/user/shubhamqxv3/">GeeksforGeeks</a>
 </p>
 

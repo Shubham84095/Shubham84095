@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shubham84095@gmail.com">Email</a> ·
+  <a href="mailto:shubham84095@gmail.com">shubham84095@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/shubham-raj-7ba895204/">LinkedIn</a> ·
   <a href="https://github.com/Shubham84095">GitHub</a>
 </p>
